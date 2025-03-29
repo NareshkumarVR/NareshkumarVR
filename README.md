@@ -2,13 +2,11 @@
 👨‍💻 **Senior Full Stack Engineer** with 8+ years of experience in:
 **.NET | C# | ASP.NET | Dynamic CRM | SQL | Azure Cloud | Angular | React | Python | Node.js | Nest.js**  
 
-📌 **Company:** Teton Private Limited  
-📍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** [abusaid7388@gmail.com](mailto:abusaid7388@gmail.com)  
+📌 **Company:** E Lex Ratio Private Limited.,  
+📍 **Location:** Coimbatore, Tamil Nadu  
+📧 **Email:** [Nareshkumar.vr@gmail.com](mailto:nareshkumar.vr@gmail.com)  
 🌐 **Portfolio:** [abusaid.netlify.com](https://abusaid.netlify.com)  
-🐦 **Twitter/X:** [@said7388](https://twitter.com/said7388)  
-💼 **LinkedIn:** [in/abu-said-bd](https://linkedin.com/in/abu-said-bd)  
-📸 **Instagram:** [abusaid.riyaz](https://www.instagram.com/abusaid.riyaz)  
+💼 **LinkedIn:** [in/nareshkumar-velliangiri-935766187](https://linkedin.com/in/nareshkumar-velliangiri-935766187)
 
 ---
 
