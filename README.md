@@ -20,7 +20,7 @@
 ---
 
 ### ⚡ Crazy Programmer! Professional & Ambitious ⚡  
-I love the wide range of stacks in **Software Engineering** that includes **Frontend, Backend, and DevOps**!  
+I love the wide range of stacks in **Senior Fullstack Engineering** that includes **Frontend, Backend, SQL, Dynamic CRM, Power Apps, Python, Node.JS, Nest.JS, React, Angular, Azure Cloud, CI/CD Pipelines, Docker Deployments and DevOps**!
 
 ---
 
